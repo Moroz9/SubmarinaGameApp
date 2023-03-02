@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ocean-underwater-landscape-seaweed-and-reef-fish-school-whale-silhouette-sea-bottom-landscape-seafloor-seascape-vector-background-with-ocean-flora-and-fauna-corals-sea-animal-silhouettes_8071-8882.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
